@@ -10,7 +10,6 @@ made with love by toasty.
 
 local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Consistt/Ui/main/UnLeaked"))()
 
-if game.PlaceId == 112473435291415 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/toasty-dev/pissblox/main/games/solarisarsenal_beta.lua",true))()
 elseif game.PlaceId == 301549746 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/toasty-dev/pissblox/main/games/solariscb.lua",true))()
